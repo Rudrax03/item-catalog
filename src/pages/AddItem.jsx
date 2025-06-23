@@ -64,7 +64,7 @@ const AddItem = () => {
     setAdditionalImages([]);
     setAdditionalPreviews([]);
 
-    alert("Item added successfully!");
+    alert("✅ Item added successfully!");
   };
 
   return (
