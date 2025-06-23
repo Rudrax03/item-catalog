@@ -1,15 +1,15 @@
-# 🛒 Item Catalog App
+# Item Catalog App
 
 A simple React app to manage and browse items with features like add, view, filter, search, dark mode, and email enquiries (via EmailJS). Built with Vite, Zustand, and Tailwind CSS.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the project**
 
 ```bash
-git clone https://github.com/your-username/item-catalog.git
+git clone https://github.com/Rudrax03/item-catalog.git
 cd item-catalog
 ```
 
@@ -36,5 +36,45 @@ npm run dev
 ```
 
 Then open [http://localhost:5173](http://localhost:5173) in your browser.
+
+---
+
+## Hosting
+
+The project is live and accessible at:
+
+🔗 https://myitemcatalog.netlify.app/
+
+---
+
+## Screenshots
+
+### 1. Home Page
+
+![Home Page](./screenshots/1.png)
+
+### 2. Home Page (Dark Mode)
+
+![Home Page Dark](./screenshots/2.png)
+
+### 3. Items List with Filters
+
+![Items List](./screenshots/3.png)
+
+### 4. Add New Item
+
+![Add Item](./screenshots/4.png)
+
+### 5. Send Enquiry Modal
+
+![Send Enquiry](./screenshots/5.png)
+
+### 6. Enquiry Email Received
+
+![Enquiry Mail](./screenshots/6.png)
+
+### 7. EmailJS Template Configuration
+
+![EmailJS Template](./screenshots/7.png)
 
 ---
