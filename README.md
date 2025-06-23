@@ -51,30 +51,30 @@ The project is live and accessible at:
 
 ### 1. Home Page
 
-![Home Page](./screenshots/1.png)
+![Home Page](public/screenshots/1.png)
 
 ### 2. Home Page (Dark Mode)
 
-![Home Page Dark](./screenshots/2.png)
+![Home Page Dark](public/screenshots/2.png)
 
 ### 3. Items List with Filters
 
-![Items List](./screenshots/3.png)
+![Items List](public/screenshots/3.png)
 
 ### 4. Add New Item
 
-![Add Item](./screenshots/4.png)
+![Add Item](public/screenshots/4.png)
 
 ### 5. Send Enquiry Modal
 
-![Send Enquiry](./screenshots/5.png)
+![Send Enquiry](public/screenshots/5.png)
 
 ### 6. Enquiry Email Received
 
-![Enquiry Mail](./screenshots/6.png)
+![Enquiry Mail](public/screenshots/6.png)
 
 ### 7. EmailJS Template Configuration
 
-![EmailJS Template](./screenshots/7.png)
+![EmailJS Template](public/screenshots/7.png)
 
 ---
