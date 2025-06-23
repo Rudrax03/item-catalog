@@ -73,6 +73,7 @@ The project is live and accessible at:
 
 ![Enquiry Mail](public/screenshots/6.png)
 
+
 ### 7. EmailJS Template Configuration
 
 ![EmailJS Template](public/screenshots/7.png)
