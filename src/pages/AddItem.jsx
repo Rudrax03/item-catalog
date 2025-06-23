@@ -13,7 +13,7 @@ const AddItem = () => {
   const [additionalImages, setAdditionalImages] = useState([]);
   const [additionalPreviews, setAdditionalPreviews] = useState([]);
 
-  // 🔄 Convert file to base64 string
+  // Convert file to base64 string
   const toBase64 = (file) =>
     new Promise((resolve, reject) => {
       const reader = new FileReader();
@@ -55,7 +55,7 @@ const AddItem = () => {
 
     addItem(newItem);
 
-    // ✅ Reset form
+    // Reset form
     setName("");
     setType("");
     setDescription("");
@@ -64,7 +64,7 @@ const AddItem = () => {
     setAdditionalImages([]);
     setAdditionalPreviews([]);
 
-    alert("✅ Item added successfully!");
+    alert("Item added successfully!");
   };
 
   return (
